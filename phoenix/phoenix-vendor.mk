@@ -92,5 +92,7 @@ PRODUCT_PACKAGES += \
     libantradio \
     QtiTelephonyService \
     dpmserviceapp \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     ims \
     qcrilmsgtunnel
